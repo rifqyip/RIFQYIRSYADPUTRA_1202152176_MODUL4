@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RIFQYIRSYADPUTRA_1202152176_MODUL4</string>
+
+    <string-array name="listNamaMahasiswa">
+        <item>Rifqy</item>
+        <item>Irsyad</item>
+        <item>Putra</item>
+        <item>Faisal</item>
+        <item>Aziz</item>
+        <item>Rafif</item>
+        <item>Naufal</item>
+        <item>Azka</item>
+        <item>Adhani</item>
+        <item>Putri</item>
+    </string-array>
+</resources>
